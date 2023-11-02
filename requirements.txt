@@ -1,12 +1,3 @@
 Flask
 Flask-RESTful
 gunicorn
-blinker
-click
-itsdangerous
-Jinja2
-MarkupSafe
-packaging
-psycopg2-binary
-python-dotenv
-Werkzeug
